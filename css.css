@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+div{
+    background-color: aliceblue;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+header , footer{
+    background-color: #ccffff;
+    color:#999999
+}
